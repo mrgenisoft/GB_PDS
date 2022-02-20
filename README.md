@@ -1,2 +1,2 @@
 # GB_PDS
-Задания по курсу Python для Data Science (ГБ)
+Задания по курсу "Python для Data Science (ГБ)"
